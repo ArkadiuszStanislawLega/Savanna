@@ -1,0 +1,136 @@
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.2\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\ClassLibrary1.dll
+C:\Users\NieAdministrator\source\repos\Sawanna 1.5 - Kopia\Sawanna\bin\Debug\ClassLibrary1.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\bin\Debug\ClassLibrary1.dll
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\bin\Debug\ClassLibrary1.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna 1.6 - Kopia\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\bin\Debug\ClassLibrary1.dll
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\bin\Debug\ClassLibrary1.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.Menu.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+F:\Nowy folder (2)\Sawanna\Sawanna\bin\Debug\Sawanna.exe.config
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.exe
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.pdb
+F:\Nowy folder (2)\Sawanna\Sawanna\bin\Debug\Sawanna.exe
+F:\Nowy folder (2)\Sawanna\Sawanna\bin\Debug\Sawanna.pdb
+F:\Nowy folder (2)\Sawanna\Sawanna\bin\Debug\ClassLibrary1.dll
+F:\Nowy folder (2)\Sawanna\Sawanna\bin\Debug\ClassLibrary1.pdb
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.Menu.resources
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+F:\Nowy folder (2)\Sawanna\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\bin\Debug\ClassLibrary1.dll
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\bin\Debug\ClassLibrary1.pdb
+C:\Users\NieAdministrator\source\repos\Sawanna\Sawanna\obj\Debug\Sawanna.Menu.resources
+I:\Sawanna final\Sawanna\bin\Debug\Sawanna.exe.config
+I:\Sawanna final\Sawanna\bin\Debug\Sawanna.exe
+I:\Sawanna final\Sawanna\bin\Debug\Sawanna.pdb
+I:\Sawanna final\Sawanna\bin\Debug\ClassLibrary1.dll
+I:\Sawanna final\Sawanna\bin\Debug\ClassLibrary1.pdb
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.Menu.resources
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.exe
+I:\Sawanna final\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.Menu.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\obj\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\bin\Debug\ClassLibrary1.dll
+C:\Users\Horemheb\Documents\Visual Studio 2015\Sawanna final\Sawanna\bin\Debug\ClassLibrary1.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\bin\Debug\Sawanna.exe.config
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\bin\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\bin\Debug\Sawanna.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\bin\Debug\ClassLibrary1.dll
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\bin\Debug\ClassLibrary1.pdb
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.Sawanna.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.Menu.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.Properties.Resources.resources
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.CoreCompileInputs.cache
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.exe
+C:\Users\Horemheb\Documents\Visual Studio 2015\SAWANA\Sawanna final\Sawanna\obj\Debug\Sawanna.pdb
+F:\Sawanna final\Sawanna\obj\Debug\Sawanna.csprojResolveAssemblyReference.cache
+F:\Sawanna final\Sawanna\obj\Debug\Sawanna.Menu.resources
+F:\Sawanna final\Sawanna\obj\Debug\Sawanna.csproj.GenerateResource.Cache
+F:\Sawanna final\Sawanna\obj\Debug\Sawanna.exe
+F:\Sawanna final\Sawanna\obj\Debug\Sawanna.pdb

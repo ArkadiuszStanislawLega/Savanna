@@ -1,0 +1,5 @@
+I:\Sawanna final\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+I:\Sawanna final\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+I:\Sawanna final\ClassLibrary1\obj\Debug\Rectengleble Lib.csproj.CoreCompileInputs.cache
+I:\Sawanna final\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+I:\Sawanna final\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
